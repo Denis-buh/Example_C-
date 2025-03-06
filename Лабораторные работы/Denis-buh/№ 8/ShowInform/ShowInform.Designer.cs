@@ -35,19 +35,6 @@ partial class ShowInform
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // button_close
-            // 
-            /*this.button_close.AutoSize = true;
-            this.button_close.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button_close.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button_close.Location = new System.Drawing.Point(3, 3);
-            this.button_close.Name = "button_close";
-            this.button_close.Size = new System.Drawing.Size(97, 23);
-            this.button_close.TabIndex = 0;
-            this.button_close.Text = "Закрыть форму";
-            this.button_close.UseVisualStyleBackColor = true;
-            this.button_close.Click += new System.EventHandler(this.button_close_Click);*/
-            // 
             // listBox1
             // 
             this.listBox1.Dock = System.Windows.Forms.DockStyle.Fill;
